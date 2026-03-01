@@ -15,13 +15,13 @@ This portfolio is designed to demonstrate skills in:
 This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
 
 ### Project Title One
-*A brief description of your project, the tools used, and the key insights derived.*
+*Assessing Fairness in Machine Learning Models Trained on Open Government Data.*
 
 ### Project Title Two
-*A brief description of your project, the tools used, and the key insights derived.*
+*XAI-Based-Feature-Selection-for-Improving-Network-Traffic-Classification.*
 
 ### Project Title Three
-*A brief description of your project, the tools used, and the key insights derived.*
+*Social Network based privacy-preserving crimal suspect sensing.*
 
 
 ## 🛠️ Skills
@@ -31,7 +31,7 @@ Update the `index.html` file to reflect your personal technical skillset. The te
 - **Data Visualization**: Power BI, Tableau, Matplotlib, etc.
 - **Data Analysis**: SQL, Python (Pandas), R, Excel, etc.
 - **Data Modeling**: Power Query, DAX, Star Schema Design, etc.
-- **Tools**: List any other relevant tools like Power BI Service, specific cloud platforms, etc.
+- **Tools**: Power BI Service, MySQL Workbench, Jupyter Notebook, Jupyter Notebook, Git & GitHub, VS Code and Google Collab.
 
 ## 💡 How to Use This Template
 
