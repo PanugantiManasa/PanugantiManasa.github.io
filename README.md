@@ -21,6 +21,9 @@ This template is set up to showcase your best work. You can easily customize the
 *XAI-Based-Feature-Selection-for-Improving-Network-Traffic-Classification.*
 
 ### Project Title Three
+*Customer Shopping Behavior Analysis*
+
+### Project Title Four
 *Social Network based privacy-preserving crimal suspect sensing.*
 
 
